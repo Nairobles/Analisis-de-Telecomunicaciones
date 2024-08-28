@@ -34,8 +34,6 @@ El otro KPI del dashboard fue elaborado por mi:
 
 ![image](https://github.com/user-attachments/assets/39680655-ffcd-42ab-b19e-8851b4044446)
 
-KPI aumento Fibra Óptica = ((Nuevo_trimestre_fibra - Antiguo_trimestre_fibra)/ Antiguo_trimestre_fibra) * 100
-
 Donde:
 + "Nuevo_trimestre_fibra" se refiere al número de accesos a Fibra óptica del próximo trimestre.
 + "Antiguo_trimestre_fibra" se refiere al número de accesos a Fibra óptica del trimestre anterior.
